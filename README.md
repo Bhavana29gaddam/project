@@ -139,11 +139,14 @@ CodeAlpha_SocialMedia
 </p>
 
 
+
+
 ### Create Post
 <p align="center">
   <img src="https://github.com/tallamharika/CODEALPHA_SOCAIL-MEDIA/blob/master/Screenshot%20(874).png" width="250"/>
   <img src="https://github.com/tallamharika/CODEALPHA_SOCAIL-MEDIA/blob/master/Screenshot%20(875).png" width="250"/>
   <img src="https://github.com/tallamharika/CODEALPHA_SOCAIL-MEDIA/blob/master/Screenshot%20(876).png" width="250"/>
+  
 </p>
 
 
