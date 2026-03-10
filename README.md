@@ -168,7 +168,7 @@ CodeAlpha_SocialMedia
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/tallamharika/CODEALPHA_SOCAIL-MEDIA.git
+git clone (https://github.com/Bhavana29gaddam/project)
 
 ---
 
@@ -179,18 +179,19 @@ npm install
 
 Create a .env file and add:
 
-MONGO_URI=mongodb+srv://socail:Socail%401234@cluster0.kh8vxwd.mongodb.net/social_media?retryWrites=true&w=majority
+MONGO_URI=mongodb+srv://god376853_db_user:33RAr4aXIgMPmbJB@cluster0.4fbojva.mongodb.net/socialmedia?retryWrites=true&w=majority
 PORT=5000
+
 
 Run backend server:
 
-npm start
+node server.js
 
 ---
 
 ### 3️⃣ Frontend Setup
 
-Open the frontend folder and run using **Live Server** or open index.html in your browser.
+Open the frontend folder and runs using npm start on http://localhost:3000 and the backend server runs on http://localhost:5000.
 
 ---
 
