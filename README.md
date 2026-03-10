@@ -219,7 +219,7 @@ Open the frontend folder and runs using npm start on http://localhost:3000 and t
 
 ## 👩‍💻 Author
 
-**Tallam Harika**  
+**GADDAM BHAVANA**  
 Full Stack Developer  
 CodeAlpha Internship Submission
 
