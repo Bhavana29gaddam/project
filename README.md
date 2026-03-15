@@ -112,30 +112,30 @@ CodeAlpha_SocialMedia
 
 ### Home / Feed Page
 <p align="center">
-  <img src="https://github.com/tallamharika/CODEALPHA_SOCAIL-MEDIA/blob/master/Screenshot%20(866).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(866).png" width="250"/>
 </p>
 
 
 ### Login Page
 <p align="center">
-  <img src="https://github.com/tallamharika/CODEALPHA_SOCAIL-MEDIA/blob/master/Screenshot%20(868).png" width="250"/>
-  <img src="https://github.com/tallamharika/CODEALPHA_SOCAIL-MEDIA/blob/master/Screenshot%20(870).png" width="250"/>
-  <img src="https://github.com/tallamharika/CODEALPHA_SOCAIL-MEDIA/blob/master/Screenshot%20(871).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(868).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(870).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(871).png" width="250"/>
 </p>
 
 
 ### Register Page
 <p align="center">
-  <img src="https://github.com/tallamharika/CODEALPHA_SOCAIL-MEDIA/blob/master/Screenshot%20(867).png" width="250"/>
-  <img src="https://github.com/tallamharika/CODEALPHA_SOCAIL-MEDIA/blob/master/Screenshot%20(869).png" width="250"/>
-  <img src="https://github.com/tallamharika/CODEALPHA_SOCAIL-MEDIA/blob/master/Screenshot%20(870).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(867).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(869).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(870).png" width="250"/>
 </p>
 
 
 ### Profile Page
 <p align="center">
-  <img src="https://github.com/tallamharika/CODEALPHA_SOCAIL-MEDIA/blob/master/Screenshot%20(872).png" width="250"/>
-  <img src="https://github.com/tallamharika/CODEALPHA_SOCAIL-MEDIA/blob/master/Screenshot%20(873).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(872).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(873).png" width="250"/>
 </p>
 
 
@@ -143,25 +143,25 @@ CodeAlpha_SocialMedia
 
 ### Create Post
 <p align="center">
-  <img src="https://github.com/tallamharika/CODEALPHA_SOCAIL-MEDIA/blob/master/Screenshot%20(874).png" width="250"/>
-  <img src="https://github.com/tallamharika/CODEALPHA_SOCAIL-MEDIA/blob/master/Screenshot%20(875).png" width="250"/>
-  <img src="https://github.com/tallamharika/CODEALPHA_SOCAIL-MEDIA/blob/master/Screenshot%20(876).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(874).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(875).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(876).png" width="250"/>
   
 </p>
 
 
 ### Comments
 <p align="center">
-  <img src="https://github.com/tallamharika/CODEALPHA_SOCAIL-MEDIA/blob/master/Screenshot%20(877).png" width="250"/>
-  <img src="https://github.com/tallamharika/CODEALPHA_SOCAIL-MEDIA/blob/master/Screenshot%20(878).png" width="250"/>
-  <img src="https://github.com/tallamharika/CODEALPHA_SOCAIL-MEDIA/blob/master/Screenshot%20(879).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(877).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(878).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(879).png" width="250"/>
 </p>
 
 
 ### Likes System
 <p align="center">
-  <img src="https://github.com/tallamharika/CODEALPHA_SOCAIL-MEDIA/blob/master/Screenshot%20(881).png" width="250"/>
-  <img src="https://github.com/tallamharika/CODEALPHA_SOCAIL-MEDIA/blob/master/Screenshot%20(882).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(881).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(882).png" width="250"/>
 </p>
 
 
