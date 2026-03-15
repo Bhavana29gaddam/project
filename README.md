@@ -139,13 +139,22 @@ CodeAlpha_SocialMedia
 </p>
 
 
+### Types of posts
+### 1.Text 
+<img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(499).png" width="250"/>
 
+### 2.Image 
+<img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(500).png" width="250"/>
+<img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(502).png" width="250"/>
 
 ### Create Post
 <p align="center">
   <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(874).png" width="250"/>
   <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(875).png" width="250"/>
   <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(876).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(504).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(505).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/project/blob/main/Screenshot%20(506).png" width="250"/>
   
 </p>
 
